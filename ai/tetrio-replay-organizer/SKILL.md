@@ -70,7 +70,7 @@ In this repo, previous inspection found no common key or token patterns, but the
 - Keep canonical replay files at the repository root.
 - Keep this skill package in `ai/tetrio-replay-organizer/`.
 - Update the root `AGENTS.md` only if the entry point needs to change.
-- If you change the workflow, update the harness adapters in `.claude/commands/`, `.opencode/commands/`, and `.codex/skills/` so they still point at this shared skill.
+- If you change the workflow, update the harness adapters in `.claude/skills/` and `.opencode/commands/` so they still point at this shared skill.
 
 ## Practical Validation
 
