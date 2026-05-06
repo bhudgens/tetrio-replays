@@ -19,3 +19,5 @@ This folder contains canonical `.ttrm` replay files organized with a predictable
 | `2026-05-03T21-39-40Z_carelesswhisper-vs-carterbh0_winner-carelesswhisper_5-3.ttrm` | 2026-05-03 21:39:40 UTC | carelesswhisper vs carterbh0 | carelesswhisper | 5-3 |
 | `2026-05-03T21-47-34Z_carelesswhisper-vs-carterbh0_winner-carelesswhisper_5-1.ttrm` | 2026-05-03 21:47:34 UTC | carelesswhisper vs carterbh0 | carelesswhisper | 5-1 |
 | `2026-05-03T21-47-35Z_carelesswhisper-vs-carterbh0_winner-carelesswhisper_5-1.ttrm` | 2026-05-03 21:47:35 UTC | carelesswhisper vs carterbh0 | carelesswhisper | 5-1 |
+| `2026-05-06T22-28-25Z_carelesswhisper-vs-carterbh0_winner-carelesswhisper_9-0.ttrm` | 2026-05-06 22:28:25 UTC | carelesswhisper vs carterbh0 | carelesswhisper | 9-0 |
+| `2026-05-06T23-17-54Z_carelesswhisper-vs-carterbh0_winner-carelesswhisper_9-2.ttrm` | 2026-05-06 23:17:54 UTC | carelesswhisper vs carterbh0 | carelesswhisper | 9-2 |
