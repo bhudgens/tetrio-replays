@@ -24,3 +24,7 @@ This folder contains canonical `.ttrm` replay files organized with a predictable
 | `2026-05-08T17-09-06Z_carelesswhisper-vs-princessdonut_winner-carelesswhisper_9-1.ttrm` | 2026-05-08 17:09:06 UTC | carelesswhisper vs princessdonut | carelesswhisper | 9-1 |
 | `2026-05-08T17-22-58Z_carelesswhisper-vs-princessdonut_winner-carelesswhisper_9-2.ttrm` | 2026-05-08 17:22:58 UTC | carelesswhisper vs princessdonut | carelesswhisper | 9-2 |
 | `2026-05-09T00-06-30Z_carelesswhisper-vs-princessdonut_winner-carelesswhisper_20-1.ttrm` | 2026-05-09 00:06:30 UTC | carelesswhisper vs princessdonut | carelesswhisper | 20-1 |
+| `2026-05-09T00-39-32Z_tebi_byte-vs-carelesswhisper_winner-tebi_byte_3-1.ttrm` | 2026-05-09 00:39:32 UTC | tebi_byte vs carelesswhisper | tebi_byte | 3-1 |
+| `2026-05-09T00-45-44Z_carelesswhisper-vs-udonlovr_winner-carelesswhisper_3-0.ttrm` | 2026-05-09 00:45:44 UTC | carelesswhisper vs udonlovr | carelesswhisper | 3-0 |
+| `2026-05-09T00-50-53Z_kilothehuman-vs-carelesswhisper_winner-kilothehuman_3-0.ttrm` | 2026-05-09 00:50:53 UTC | kilothehuman vs carelesswhisper | kilothehuman | 3-0 |
+| `2026-05-09T00-57-33Z_carelesswhisper-vs-aburitorosaamon_winner-carelesswhisper_3-1.ttrm` | 2026-05-09 00:57:33 UTC | carelesswhisper vs aburitorosaamon | carelesswhisper | 3-1 |
