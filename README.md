@@ -33,3 +33,4 @@ This folder contains canonical `.ttrm` replay files organized with a predictable
 | `2026-05-09T01-20-29Z_aboygoon-vs-carelesswhisper_winner-aboygoon_3-2.ttrm` | 2026-05-09 01:20:29 UTC | aboygoon vs carelesswhisper | aboygoon | 3-2 |
 | `2026-05-09T01-28-45Z_carelesswhisper-vs-vurhd_winner-carelesswhisper_3-2.ttrm` | 2026-05-09 01:28:45 UTC | carelesswhisper vs vurhd | carelesswhisper | 3-2 |
 | `2026-05-09T01-33-21Z_carelesswhisper-vs-cheeseandmangoes_winner-carelesswhisper_3-0.ttrm` | 2026-05-09 01:33:21 UTC | carelesswhisper vs cheeseandmangoes | carelesswhisper | 3-0 |
+| `2026-05-09T01-39-55Z_carelesswhisper-vs-steve31_winner-carelesswhisper_3-1.ttrm` | 2026-05-09 01:39:55 UTC | carelesswhisper vs steve31 | carelesswhisper | 3-1 |
